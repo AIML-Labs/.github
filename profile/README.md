@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here's a rewritten version tailored for AIML Labs:
-
 **Welcome to AIML Labs!**
 
 🙋‍♀️ **A short introduction**  
